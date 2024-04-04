@@ -16,6 +16,8 @@
 				"C:/Aura/Content/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear.uasset",
 				"C:/Aura/Content/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot.uasset",
 				"C:/Aura/Content/Blueprints/Character/Goblin_Slingshot/ABP_Goblin_Slingshot.uasset",
+				"C:/Aura/Content/Blueprints/Input/InputActions/IA_Move.uasset",
+				"C:/Aura/Content/Blueprints/Input/IMC_AuraContext.uasset",
 				"Z:/Game Projects/_Udemy Projects/Aura/Content/Maps/StartupMap.umap",
 				"E:/Courses/Druid Mechanics Courses/GAS Official/Startup Project 5_2_0/Aura/Content/Assets/UI/Pickups/T_HealthCrystal.uasset",
 				"E:/Courses/Druid Mechanics Courses/GAS Official/Startup Project 5_2_0/Aura/Content/Assets/UI/Pickups/T_ManaCrystal.uasset",
