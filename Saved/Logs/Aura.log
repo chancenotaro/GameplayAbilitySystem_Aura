@@ -1559,3 +1559,281 @@ Script Stack (0 frames) :
 [2024.04.04-22.59.32:450][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 963 ms)
 [2024.04.04-22.59.32:453][639]AssetCheck: New page: Asset Save: StartupMap
 [2024.04.04-22.59.32:453][639]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StartupMap.StartupMap
+[2024.04.04-23.01.38:487][626]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.01.38:487][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.01.40:021][776]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.01.40:021][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.01.45:127][278]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.01.45:199][278]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.01.45:229][278]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.01.50:753][278]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2024.04.04-23.01.50:763][278]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2024.04.04-23.01.50:769][278]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2024.04.04-23.01.50:790][279]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2024.04.04-23.01.55:300][792]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_Aura
+[2024.04.04-23.01.55:314][792]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2024.04.04-23.01.55:316][792]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.01.55:485][804]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Character/Aura/ABP_Aura.ABP_Aura
+[2024.04.04-23.01.55:486][804]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.01.55:486][804]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.01.55:501][804]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.01.55:501][804]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.01.55:511][804]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.01.55:950][804]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.01.55:951][804]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.01.56:106][804]LogSlate: Took 0.000439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.04-23.01.56:115][804]LogSlate: Took 0.006152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.04-23.01.56:118][804]LogViewport: Scene viewport resized to 305x431, mode Windowed.
+[2024.04.04-23.01.56:212][804]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.04-23.02.54:600][ 58]LogMetaSound: Display: MetaSound at '/Game/Assets/Sounds/FootSteps/sfx_Footsteps.sfx_Footsteps' Document Versioned: 'v1.10' --> 'v1.11'
+[2024.04.04-23.02.54:606][ 58]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footsteps_Stone_01...
+[2024.04.04-23.02.54:606][ 58]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footsteps_Stone_02...
+[2024.04.04-23.02.54:606][ 58]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footsteps_Stone_03...
+[2024.04.04-23.02.54:607][ 58]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footsteps_Stone_04...
+[2024.04.04-23.02.54:607][ 58]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footsteps_Stone_05...
+[2024.04.04-23.02.54:607][ 58]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footsteps_Stone_06...
+[2024.04.04-23.02.54:607][ 58]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footsteps_Stone_07...
+[2024.04.04-23.02.54:608][ 58]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footsteps_Stone_08...
+[2024.04.04-23.02.54:610][ 58]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footsteps_Stone_09...
+[2024.04.04-23.02.54:610][ 58]LogAudio: Display: Chunk sizes for SoundWave /Game/Assets/Sounds/FootSteps/wav/SFX_Footsteps_Stone_01.SFX_Footsteps_Stone_01: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.04-23.02.54:611][ 58]LogAudio: Display: Chunk sizes for SoundWave /Game/Assets/Sounds/FootSteps/wav/SFX_Footsteps_Stone_03.SFX_Footsteps_Stone_03: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.04-23.02.54:611][ 58]LogAudio: Display: Chunk sizes for SoundWave /Game/Assets/Sounds/FootSteps/wav/SFX_Footsteps_Stone_05.SFX_Footsteps_Stone_05: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.04-23.02.54:611][ 58]LogAudio: Display: Chunk sizes for SoundWave /Game/Assets/Sounds/FootSteps/wav/SFX_Footsteps_Stone_02.SFX_Footsteps_Stone_02: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.04-23.02.54:611][ 58]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footsteps_Stone_10...
+[2024.04.04-23.02.54:611][ 58]LogAudio: Display: Chunk sizes for SoundWave /Game/Assets/Sounds/FootSteps/wav/SFX_Footsteps_Stone_04.SFX_Footsteps_Stone_04: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.04-23.02.54:611][ 58]LogAudio: Display: Chunk sizes for SoundWave /Game/Assets/Sounds/FootSteps/wav/SFX_Footsteps_Stone_06.SFX_Footsteps_Stone_06: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.04-23.02.54:612][ 58]LogAudio: Display: Chunk sizes for SoundWave /Game/Assets/Sounds/FootSteps/wav/SFX_Footsteps_Stone_07.SFX_Footsteps_Stone_07: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.04-23.02.54:612][ 58]LogAudio: Display: Chunk sizes for SoundWave /Game/Assets/Sounds/FootSteps/wav/SFX_Footsteps_Stone_08.SFX_Footsteps_Stone_08: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.04-23.02.54:614][ 58]LogAudio: Display: Chunk sizes for SoundWave /Game/Assets/Sounds/FootSteps/wav/SFX_Footsteps_Stone_09.SFX_Footsteps_Stone_09: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.04-23.02.54:615][ 58]LogAudio: Display: Chunk sizes for SoundWave /Game/Assets/Sounds/FootSteps/wav/SFX_Footsteps_Stone_10.SFX_Footsteps_Stone_10: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.04-23.02.54:646][ 58]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Characters/Aura/Animations/Walk.Walk
+[2024.04.04-23.02.54:647][ 58]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Characters/Aura/Animations/Run.Run
+[2024.04.04-23.02.54:756][ 58]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Characters/Aura/Animations/Walk.Walk, at AnimationSequence/d3b2967b5cec2272adae2bb831859454382b87de
+[2024.04.04-23.02.54:757][ 58]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.02.54:781][ 58]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Characters/Aura/Animations/Run.Run, at AnimationSequence/dfffabc8fa59e046d4cf27c47596dfc9ba2e9bec
+[2024.04.04-23.07.00:214][ 31]BlueprintLog: New page: Compile ABP_Aura
+[2024.04.04-23.07.00:266][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.04.04-23.07.00:848][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.07.00:919][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Aura/ABP_Aura" FILE="../../../../../../Aura/Content/Blueprints/Character/Aura/ABP_Aura.uasset" SILENT=true
+[2024.04.04-23.07.00:942][ 81]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/Aura/ABP_Aura
+[2024.04.04-23.07.00:942][ 81]LogSavePackage: Moving '../../../../../../Aura/Saved/ABP_Aura2894893242F1F5FC389928A5E57B4FC0.tmp' to '../../../../../../Aura/Content/Blueprints/Character/Aura/ABP_Aura.uasset'
+[2024.04.04-23.07.00:958][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.07 sec)
+[2024.04.04-23.07.00:960][ 81]AssetCheck: New page: Asset Save: ABP_Aura
+[2024.04.04-23.07.00:960][ 81]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Blueprints/Character/Aura/ABP_Aura.ABP_Aura
+[2024.04.04-23.07.13:073][977]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.04.04-23.07.18:164][154]BlueprintLog: New page: Compile BP_AuraCharacter
+[2024.04.04-23.07.18:254][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.04-23.07.21:612][451]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.07.21:717][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Aura/BP_AuraCharacter" FILE="../../../../../../Aura/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset" SILENT=true
+[2024.04.04-23.07.21:725][451]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/Aura/BP_AuraCharacter
+[2024.04.04-23.07.21:727][451]LogSavePackage: Moving '../../../../../../Aura/Saved/BP_AuraCharacter70C4EAB04B6113AA69D205993BC0D32F.tmp' to '../../../../../../Aura/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset'
+[2024.04.04-23.07.21:738][451]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 1.19 sec)
+[2024.04.04-23.07.21:740][451]AssetCheck: New page: Asset Save: BP_AuraCharacter
+[2024.04.04-23.07.21:741][451]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Character/Aura/BP_AuraCharacter.BP_AuraCharacter
+[2024.04.04-23.08.05:360][428]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2024.04.04-23.08.05:372][428]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2024.04.04-23.08.05:377][428]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2024.04.04-23.08.05:389][429]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2024.04.04-23.08.16:033][686]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_Enemy
+[2024.04.04-23.08.16:044][686]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2024.04.04-23.08.17:178][818]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Character/ABP_Enemy.ABP_Enemy
+[2024.04.04-23.08.17:178][818]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.08.17:178][818]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.08.17:185][818]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.08.17:185][818]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.08.17:623][818]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.08.17:623][818]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.08.17:793][818]LogViewport: Scene viewport resized to 305x431, mode Windowed.
+[2024.04.04-23.08.17:837][818]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.04-23.12.55:167][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.04.04-23.12.55:170][874]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.028
+[2024.04.04-23.12.55:173][874]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Character/Aura/ABP_Aura] ([2] browsable assets)...
+[2024.04.04-23.12.55:186][874]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Character/Aura/ABP_Aura.ABP_Aura]
+[2024.04.04-23.12.55:186][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Aura/ABP_Aura]
+[2024.04.04-23.12.55:186][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Aura/ABP_Aura" FILE="../../../../../../Aura/Saved/Autosaves/Game/Blueprints/Character/Aura/ABP_Aura_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.04.04-23.12.55:207][874]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Character/Aura/ABP_Aura_Auto2
+[2024.04.04-23.12.55:207][874]LogSavePackage: Moving '../../../../../../Aura/Saved/ABP_Aura_Auto20609AAC74423911A62DE418AB862A619.tmp' to '../../../../../../Aura/Saved/Autosaves/Game/Blueprints/Character/Aura/ABP_Aura_Auto2.uasset'
+[2024.04.04-23.12.55:211][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/ABP_Enemy] ([2] browsable assets)...
+[2024.04.04-23.12.55:211][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/ABP_Enemy]
+[2024.04.04-23.12.55:211][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/ABP_Enemy" FILE="../../../../../../Aura/Saved/Autosaves/Game/Blueprints/Character/ABP_Enemy_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.04.04-23.12.55:224][874]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Character/ABP_Enemy_Auto2
+[2024.04.04-23.12.55:224][874]LogSavePackage: Moving '../../../../../../Aura/Saved/ABP_Enemy_Auto21788D7314619AE05F5287C9BD7334FA8.tmp' to '../../../../../../Aura/Saved/Autosaves/Game/Blueprints/Character/ABP_Enemy_Auto2.uasset'
+[2024.04.04-23.12.55:227][874]LogFileHelpers: Auto-saving content packages took 0.056
+[2024.04.04-23.13.25:821][ 91]BlueprintLog: New page: Compile ABP_Enemy
+[2024.04.04-23.13.25:848][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.04-23.13.43:608][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.13.43:651][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/ABP_Enemy" FILE="../../../../../../Aura/Content/Blueprints/Character/ABP_Enemy.uasset" SILENT=true
+[2024.04.04-23.13.43:669][  0]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/ABP_Enemy
+[2024.04.04-23.13.43:669][  0]LogSavePackage: Moving '../../../../../../Aura/Saved/ABP_EnemyD51C1E9240E6B3B92690EBA619BCDA68.tmp' to '../../../../../../Aura/Content/Blueprints/Character/ABP_Enemy.uasset'
+[2024.04.04-23.13.43:683][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 1.27 sec)
+[2024.04.04-23.13.43:685][  0]AssetCheck: New page: Asset Save: ABP_Enemy
+[2024.04.04-23.13.43:685][  0]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Blueprints/Character/ABP_Enemy.ABP_Enemy
+[2024.04.04-23.14.06:658][276]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2024.04.04-23.14.06:674][276]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2024.04.04-23.14.06:679][276]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2024.04.04-23.14.06:690][277]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2024.04.04-23.14.16:191][393]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_Goblin_Spear
+[2024.04.04-23.14.16:202][393]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2024.04.04-23.14.16:203][393]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.14.16:918][473]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear.ABP_Goblin_Spear
+[2024.04.04-23.14.16:918][473]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.14.16:918][473]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.14.16:928][473]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.14.16:928][473]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.14.16:936][473]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.14.17:382][473]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.14.17:382][473]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.14.17:613][473]LogViewport: Scene viewport resized to 305x431, mode Windowed.
+[2024.04.04-23.14.17:681][473]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.04-23.14.29:145][594]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Enemies/Goblin/Animations/Spear/Run_Spear_fix.Run_Spear_fix
+[2024.04.04-23.14.29:145][594]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Enemies/Goblin/Animations/Spear/Idle_Spear2.Idle_Spear2
+[2024.04.04-23.14.29:153][594]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Enemies/Goblin/Animations/Spear/Run_Spear_fix.Run_Spear_fix, at AnimationSequence/c41d262e5ac9c213042a5a7ea1ae0905db7542a7
+[2024.04.04-23.14.29:180][595]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Enemies/Goblin/Animations/Spear/Idle_Spear2.Idle_Spear2, at AnimationSequence/0e8adae3b6b5bb9ad30cdfb33af629eb5418e7ca
+[2024.04.04-23.14.36:284][309]BlueprintLog: New page: Compile ABP_Goblin_Spear
+[2024.04.04-23.14.36:316][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.04-23.14.37:899][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.14.37:966][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear" FILE="../../../../../../Aura/Content/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear.uasset" SILENT=true
+[2024.04.04-23.14.37:972][459]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear
+[2024.04.04-23.14.37:972][459]LogSavePackage: Moving '../../../../../../Aura/Saved/ABP_Goblin_Spear376E207F417DB0D215F6E68AE0DA6E86.tmp' to '../../../../../../Aura/Content/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear.uasset'
+[2024.04.04-23.14.37:989][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 1.36 sec)
+[2024.04.04-23.14.37:990][459]AssetCheck: New page: Asset Save: ABP_Goblin_Spear
+[2024.04.04-23.14.37:990][459]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear.ABP_Goblin_Spear
+[2024.04.04-23.15.08:868][501]BlueprintLog: New page: Compile BP_Goblin_Spear
+[2024.04.04-23.15.08:948][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.04-23.15.09:762][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.15.09:861][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Goblin_Spear/BP_Goblin_Spear" FILE="../../../../../../Aura/Content/Blueprints/Character/Goblin_Spear/BP_Goblin_Spear.uasset" SILENT=true
+[2024.04.04-23.15.09:867][559]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/Goblin_Spear/BP_Goblin_Spear
+[2024.04.04-23.15.09:869][559]LogSavePackage: Moving '../../../../../../Aura/Saved/BP_Goblin_Spear5AE7057944598B4435DAF7BB1A34402A.tmp' to '../../../../../../Aura/Content/Blueprints/Character/Goblin_Spear/BP_Goblin_Spear.uasset'
+[2024.04.04-23.15.09:881][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 1.48 sec)
+[2024.04.04-23.15.09:883][559]AssetCheck: New page: Asset Save: BP_Goblin_Spear
+[2024.04.04-23.15.09:883][559]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Character/Goblin_Spear/BP_Goblin_Spear.BP_Goblin_Spear
+[2024.04.04-23.16.25:464][845]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.04-23.16.25:487][845]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.04-23.16.25:497][846]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.04-23.16.33:577][810]LogContentBrowser: Attempting asset rename: NewFolder -> Goblin_Slingshot
+[2024.04.04-23.16.33:578][810]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.04-23.16.53:409][773]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.04-23.16.53:419][773]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.04-23.16.53:426][773]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.04-23.16.53:446][775]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.04-23.17.02:777][877]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Goblin_Slingshot
+[2024.04.04-23.17.02:787][877]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.04-23.17.03:644][962]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot.BP_Goblin_Slingshot
+[2024.04.04-23.17.03:645][962]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.17.03:645][962]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.17.03:852][962]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.03:852][962]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.03:852][962]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.03:874][962]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.03:874][962]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.03:874][962]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.03:874][962]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.03:875][962]LogViewport: Scene viewport resized to 1074x750, mode Windowed.
+[2024.04.04-23.17.10:869][650]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.10:869][650]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.10:869][650]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.10:869][650]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.10:871][650]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.10:871][650]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.10:883][650]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.10:883][650]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.10:883][650]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.10:883][650]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.13:887][965]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.13:887][965]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.13:887][965]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.13:887][965]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.13:889][965]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.13:889][965]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.13:899][965]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.13:899][965]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.13:899][965]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.13:899][965]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_33:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2024.04.04-23.17.19:510][495]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.17.56:270][ 85]BlueprintLog: New page: Compile BP_Goblin_Slingshot
+[2024.04.04-23.17.56:350][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: ================================================
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Total job queries 84, among them cache hits 60 (71.43%)
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Tracking 24 distinct input hashes that result in 9 distinct outputs (37.50%)
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: RAM used: 521.99 KiB of 2.40 GiB budget. Usage: 0.02%
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Shaders Compiled: 12
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Average time worker was idle: 325.86 s
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.12 s
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Job execution time: average 1.69 s, max 2.79 s
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Job life time (pending + execution): average 1.77 s, max 2.86
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Shader code size: average 36.408 KiB, min 33.125 KiB, max 38.246 KiB
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.21 s
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Average processing rate: 2.85 jobs/sec
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Total thread time: 6.763 s
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Total thread preprocess time: 1.074 s
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Percentage time preprocessing: 15.89%
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Effective parallelization: 1.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.69 sec, max 0.87 sec, min 0.50 sec)
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.66 sec, max 0.82 sec, min 0.47 sec)
+[2024.04.04-23.17.56:540][ 86]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2024.04.04-23.17.56:541][ 86]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.22 sec, max 0.23 sec, min 0.22 sec)
+[2024.04.04-23.17.56:541][ 86]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.04.04-23.17.56:541][ 86]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 41.00% of total time (compiled    4 times, average 0.69 sec, max 0.87 sec, min 0.50 sec)
+[2024.04.04-23.17.56:541][ 86]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 38.74% of total time (compiled    4 times, average 0.66 sec, max 0.82 sec, min 0.47 sec)
+[2024.04.04-23.17.56:541][ 86]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.61% of total time (compiled    2 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2024.04.04-23.17.56:541][ 86]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.64% of total time (compiled    2 times, average 0.22 sec, max 0.23 sec, min 0.22 sec)
+[2024.04.04-23.17.56:541][ 86]LogShaderCompilers: Display: ================================================
+[2024.04.04-23.17.57:532][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.17.57:629][162]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.17.57:658][162]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot
+[2024.04.04-23.17.57:658][162]LogSavePackage: Moving '../../../../../../Aura/Saved/BP_Goblin_Slingshot211EE6E64A24C5BFD3C8ABB8AF2BF4B1.tmp' to '../../../../../../Aura/Content/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot.uasset'
+[2024.04.04-23.17.57:672][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 1.62 sec)
+[2024.04.04-23.17.57:674][162]AssetCheck: New page: Asset Save: BP_Goblin_Slingshot
+[2024.04.04-23.17.57:674][162]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot.BP_Goblin_Slingshot
+[2024.04.04-23.18.51:386][699]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2024.04.04-23.18.51:401][699]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2024.04.04-23.18.51:408][699]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2024.04.04-23.18.51:418][700]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2024.04.04-23.19.01:977][927]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_Goblin_Slingshot
+[2024.04.04-23.19.01:993][927]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2024.04.04-23.19.01:995][927]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.19.06:198][215]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Character/Goblin_Slingshot/ABP_Goblin_Slingshot.ABP_Goblin_Slingshot
+[2024.04.04-23.19.06:198][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.19.06:198][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.19.06:209][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.19.06:209][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.19.06:223][215]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.19.06:675][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.19.06:675][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.19.06:945][215]LogViewport: Scene viewport resized to 305x431, mode Windowed.
+[2024.04.04-23.19.06:983][215]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.04-23.19.17:533][241]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Enemies/Goblin/Animations/Slingshot/Running_Slingshot.Running_Slingshot
+[2024.04.04-23.19.17:533][241]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Enemies/Goblin/Animations/Slingshot/Idle_Slingshot.Idle_Slingshot
+[2024.04.04-23.19.17:539][241]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Enemies/Goblin/Animations/Slingshot/Running_Slingshot.Running_Slingshot, at AnimationSequence/6e41427c78f0f20fca375ad3dca1451861120ade
+[2024.04.04-23.19.17:566][241]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Enemies/Goblin/Animations/Slingshot/Idle_Slingshot.Idle_Slingshot, at AnimationSequence/9274f97b94d57c3964b4b42eccdc96d1de83aa39
+[2024.04.04-23.19.20:060][465]BlueprintLog: New page: Compile ABP_Goblin_Slingshot
+[2024.04.04-23.19.20:098][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.04-23.19.21:885][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.19.21:960][634]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/Goblin_Slingshot/ABP_Goblin_Slingshot
+[2024.04.04-23.19.21:960][634]LogSavePackage: Moving '../../../../../../Aura/Saved/ABP_Goblin_SlingshotFAB72A8643722AD6F3D47988BF5AC026.tmp' to '../../../../../../Aura/Content/Blueprints/Character/Goblin_Slingshot/ABP_Goblin_Slingshot.uasset'
+[2024.04.04-23.19.21:981][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 1.71 sec)
+[2024.04.04-23.19.21:982][634]AssetCheck: New page: Asset Save: ABP_Goblin_Slingshot
+[2024.04.04-23.19.21:982][634]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Blueprints/Character/Goblin_Slingshot/ABP_Goblin_Slingshot.ABP_Goblin_Slingshot
+[2024.04.04-23.23.02:778][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.04.04-23.23.03:865][600]LogSlate: Window 'Save Content' being destroyed
+[2024.04.04-23.23.03:878][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.23.03:937][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Aura/ABP_Aura" FILE="../../../../../../Aura/Content/Blueprints/Character/Aura/ABP_Aura.uasset" SILENT=true
+[2024.04.04-23.23.03:957][600]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/Aura/ABP_Aura
+[2024.04.04-23.23.03:959][600]LogSavePackage: Moving '../../../../../../Aura/Saved/ABP_Aura28F17C4745C08AF5E051F0BC47926406.tmp' to '../../../../../../Aura/Content/Blueprints/Character/Aura/ABP_Aura.uasset'
+[2024.04.04-23.23.03:972][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 1.81 sec)
+[2024.04.04-23.23.03:976][600]AssetCheck: New page: Asset Save: ABP_Aura
+[2024.04.04-23.23.03:976][600]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Blueprints/Character/Aura/ABP_Aura.ABP_Aura
+[2024.04.04-23.23.05:432][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.23.05:505][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartupMap" FILE="../../../../../../Aura/Content/Maps/StartupMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.04-23.23.05:554][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.04-23.23.05:567][759]LogSavePackage: Moving output files for package: /Game/Maps/StartupMap
+[2024.04.04-23.23.05:569][759]LogSavePackage: Moving '../../../../../../Aura/Saved/StartupMap6A5FCA754EDDD48065BD00A27C22AE50.tmp' to '../../../../../../Aura/Content/Maps/StartupMap.umap'
+[2024.04.04-23.23.05:580][759]LogFileHelpers: Saving map 'StartupMap' took 0.076
+[2024.04.04-23.23.05:589][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 1.96 sec)
+[2024.04.04-23.23.05:592][759]AssetCheck: New page: Asset Save: StartupMap
+[2024.04.04-23.23.05:592][759]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StartupMap.StartupMap
