@@ -22,6 +22,7 @@
 				"C:/Aura/Content/Assets/Characters/Aura/Animations/Idle.uasset",
 				"C:/Aura/Content/Blueprints/Character/BP_EnemyBase.uasset",
 				"C:/Aura/Content/Assets/Materials/PP_Highlight.uasset",
+				"C:/Aura/Content/Blueprints/Player/BP_AuraPlayerState.uasset",
 				"C:/Aura/Content/Blueprints/Game/NewWorld.umap",
 				"C:/Aura/Content/Blueprints/Character/Aura/Controller/BP_AuraPlayerController.uasset",
 				"C:/Aura/Content/Blueprints/Input/BP_AuraPlayerController.uasset",
